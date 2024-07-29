@@ -1,6 +1,4 @@
-до миллиарда может быть излишней).
 
-Ответ
 function toReadable(number) {
     let dozens;
     let words = {
